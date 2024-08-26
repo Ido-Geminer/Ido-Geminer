@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ido-Geminer
-- 👀 I’m interested in Backend Development & Data. I Learned Python,JavaScript, C, SQL, HTML, CSS.
+- 👀 I’m interested in backend development & data. I Learned Python, JavaScript, C, SQL, HTML, CSS.
 - Languages I use the most: Javascript, Python.
 - 🌱 I’m currently learning Backend Development in Javascript (Node.js)
 
